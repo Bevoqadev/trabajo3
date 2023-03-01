@@ -1,0 +1,76 @@
+body {
+
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 140%;
+    text-align: center;
+    margin: auto;
+
+    background-image: url(apps.45134.63223496777601297.562f17f8-86d7-44b2-8d8c-435301d56325.jpeg);
+
+}
+
+#ajugar {
+
+    font-size: 400%;
+    color: hsla(0, 70%, 36%, 0.808);
+}
+
+#divajugar {
+    margin-top: 10%;
+
+}
+
+a {
+    font-size: 85%;
+    color: #ffffff;
+    text-decoration: none;
+    -webkit-text-stroke: 2px black;
+}
+
+a:hover {
+
+    color: red
+}
+
+img {
+
+    width: 800px;
+    height: 500px;
+    object-fit: contain;
+}
+
+#cacona {
+
+    font-size: 150%;
+}
+
+.volver {
+    font-size: 120%;
+    width: 300px;
+    height: 50px;
+    cursor: pointer;
+    border: 1px solid red;
+    background-color: rgb(207, 195, 195);
+}
+
+.volver:hover {
+
+    background-color: red;
+    color: white;
+    border: 3px solid black;
+}
+
+.generos {
+
+    display: flex;
+    width: 900px;
+    height: 50px;
+    justify-content: space-between;
+}
+
+.generos2 {
+
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
